@@ -1,3 +1,12 @@
+
+A youtube simulation was created by obtaining data from Youtube.
+The Application Programming Interface (API) is used to interact with the youtube server and is developed using react.js.
+Users can easily search and watch any video listed on youtube on this website.
+
+Technologies used: React.js, JavaScript
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
