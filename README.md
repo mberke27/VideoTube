@@ -3,7 +3,7 @@ A youtube simulation was created by obtaining data from Youtube.
 The Application Programming Interface (API) is used to interact with the youtube server and is developed using react.js.
 Users can easily search and watch any video listed on youtube on this website.
 
-Technologies used: React.js, JavaScript
+Technologies used: React.js, JavaScript, HTML, CSS
 
 
 
