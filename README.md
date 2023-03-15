@@ -1,6 +1,6 @@
 
-Video-player web application is constructed using JavaScript, CSS and React. Users can search and play any video on YouTube.
-The Application Programming Interface (API) is used to interact with the YouTube data server to obtain designated videos from the server with the help of Google Developers Club’s API. 
+The project involved designing and developing a dynamic video player web application using JavaScript, React, and Semantic UI. 
+The application allows users to seamlessly search and play any video on YouTube, with efficient and accurate access to a vast library of videos thanks to the integration of Google Developers Club's API. Key features such as video playback controls and playlist functionality were implemented, optimizing the user experience and increasing engagement. The result is a user-friendly, interactive video player that makes it easy to enjoy a wide variety of content on YouTube.
 
 
 Technologies used: React.js, JavaScript, HTML, CSS
